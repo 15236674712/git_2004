@@ -7,4 +7,6 @@ import java.util.List;
 public interface VideoDao {
 
     List<Video> queryByLike(String content);
+
+    Video queryById(String id);
 }
