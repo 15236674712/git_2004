@@ -24,7 +24,13 @@ public class GitTests {
         int a = 10;
         int b = 20;
         String str = "lalal";
-        String aaa="hehehe";
+        String aaa = "hehehe";
+
+        String[] aasd = {"2", "3", "6"};
+        for (int i = 0; i < aasd.length; i++) {
+            String s = aasd[i];
+            System.out.println(s);
+        }
 
     }
 
