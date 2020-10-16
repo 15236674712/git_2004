@@ -15,4 +15,10 @@ public class GitTests {
         System.out.println("=====");
     }
 
+    @Test
+    public void testDev() {
+        System.out.println("dev");
+        System.out.println("==dev===");
+    }
+
 }
