@@ -19,6 +19,7 @@ public class GitTests {
     public void testDev() {
         System.out.println("dev");
         System.out.println("==dev===");
+        System.out.println("==dev3===");
     }
 
 }
