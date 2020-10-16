@@ -24,7 +24,12 @@ public class GitTests {
         int a = 10;
         int b = 20;
         String str = "lalal";
-        String aaa="hehehe";
+        String aaa = "hehehe";
+
+        int bbb = 20;
+        int ccc = 30;
+        bbb = bbb + ccc;
+        System.out.println(bbb);
 
     }
 
