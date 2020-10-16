@@ -24,6 +24,7 @@ public class GitTests {
         int a = 10;
         int b = 20;
         String str = "lalal";
+        String aaa="hehehe";
 
     }
 
